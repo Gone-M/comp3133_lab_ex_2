@@ -6,8 +6,8 @@ This project demonstrates how to set up a Node.js project using **Mocha** and **
 
 Before running this project, ensure you have the following installed on your machine:
 
-- Node.js (v14 or later)
-- npm (Node Package Manager)
+- Node.js
+- npm
 
 ## Setup and Installation
 
